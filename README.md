@@ -1,1 +1,2 @@
 # Stopwatch-web-Application
+The stopwatch web application is built using HTML, CSS, and JavaScript, offering key features like start, pause, reset, and restart functions. It allows users to start the timer, pause it when needed, reset it to zero, and restart from where it was paused. Additionally, users can record and display lap times to track intervals during the timing process, with an option to reset all laps. The interface is clean and user-friendly, making it a simple yet effective tool for time tracking.
